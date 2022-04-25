@@ -28,3 +28,4 @@
   * School within 1 km
   * Major employment center within 1 km
   * Bus station within 0.5 km
+ * Each resident of Lumina should be expected to do some work in housing – a minimum of 5 hours per week to a maximum of 40 hours.
