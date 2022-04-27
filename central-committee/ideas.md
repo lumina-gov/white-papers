@@ -17,3 +17,15 @@
   8. Virtus
   9. Dignitas
   10. Auctoritas
+* Division of community and government
+  1. Municipal government
+  2. Decapublica – 10
+  3. Hectopublica – 100
+  4. Kilopublica – 1,000
+  5. Decakilopublica – 10,000
+  6. Hectokilopublica – 100,000
+  7. Megapublica – 1,000,000
+  8. Decamegapublica – 10,000,000
+  9. Hectomegapublica – 100,000,000
+  10. Gigapublica – 1,000,000,000
+  11. Decagigapublica – 10,000,000,000
