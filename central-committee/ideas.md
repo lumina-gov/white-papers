@@ -29,3 +29,27 @@
   9. Hectomegapublica – 100,000,000
   10. Gigapublica – 1,000,000,000
   11. Decagigapublica – 10,000,000,000
+* Mini Government Centers (MGCs)
+  * An MGC is a designated area that acts as a local beacon for government and public services. Essentially, all the basic government services operate around the MGC. Designated services could include:
+    * Post office drop offs
+    * Library book drop offs
+    * Bus statios
+    * Miniature parks
+  * Every person should be within a 10 minute walking distance of an MGC.
+* Large Government Center (LGCs)
+  * An LGC is a building that serves as a focal point for more government services that requires people to actively work there. LGC services may include:
+    * Police stations
+    * Libraries
+    * Schools
+    * Daycare
+    * Medical offices
+    * Information centers
+    * Banks
+    * Utilities offices
+    * Real estate purchasing offices
+    * Tax, organisation, compliance offices
+    * Voting centers
+    * Telecommunications purchasing offices
+    * Shopping/commercial centers
+  * An LGC should exist for every approximately 1,000-10,000 people.
+  * LGC services will change depending on the size of the area that they cover.
