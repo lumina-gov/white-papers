@@ -35,6 +35,7 @@
     * Library book drop offs
     * Bus statios
     * Miniature parks
+    * Community gardens & free fruits/vegetables zone
   * Every person should be within a 10 minute walking distance of an MGC.
 * Large Government Center (LGCs)
   * An LGC is a building that serves as a focal point for more government services that requires people to actively work there. LGC services may include:
