@@ -76,3 +76,11 @@
     * Cooperatives
     * Support for the indigenous community
     * Support for the oppressed of the world – internationalism
+* 3% of income goes towards the City Wealth Fund, 7% of income goes to an individual's savings fund, which different government and financial firms have to compete for.
+* Each city, country, region, etc. should have and develop its own unique architectural and design style, influenced by others, but unique. It's the distinctions between different places that defines their character, beauty, and authenticity.
+* Government Sponsored Organisations are organisations that are not a part of the government but serve the public benefit and receive funding from the Government, including the Ministry of Culture or the Ministry of Labor. Examples may include:
+  * Lumina Federation of Trade Unions (LFTU)
+  * Lumina Federation of Cooperatives (LFC)
+  * Lumina Museums
+  * Lumina Public Radio (LPR)
+  * Lumina Performing Arts
