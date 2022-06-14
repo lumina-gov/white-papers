@@ -1,6 +1,7 @@
 ## List of ideas
 * Free units for citizens between 16 and 24
-* Rents capped at 10% of income
+* Rents capped at 15% of income
+  * If rents for the mean resident increase above 15% of income, the Government will invest appropriate funds into the Lumina Housing Company to construct Government-owned housing.
 * Purchase unit after 10 years from Lumina Housing
 * Rent rates
   * 10 Lumis / sqft / month
