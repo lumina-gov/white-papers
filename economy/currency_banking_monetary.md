@@ -29,7 +29,9 @@ The exchange pool will have money injected into it through revenue from governme
 
 ## Monetary System
 
-Lumina has a comprehensive monetary system that is designed to keep the value of the Aura stable. This system includes a number of elements, such as a reserve pool of foreign currencies, a central bank, and a monetary policy committee.
+Lumina has a comprehensive monetary system that is designed to keep the value of the Aura stable. This system includes a number of elements, such as a reserve pool of foreign currencies, the sovereign wealth fund(s), precious metal reserves, a central bank, and a monetary policy committee.
+
+Lumina will have control over the supply of its currency and will use the foreign currency supplies to manage the demand to provide currency stability. Quantitative easing - the selective addition and removal of supply - can be used as an alternative for and in addition to fractional-reserve lending. Advanced statistics such as currency velocity will be used to quantify potential future currency value. Lumina aims for an inflation goal of 2%. In effect, currency and currency liquidity can be provided at will to meet demand or for any beneficial purpose.
 
 The reserve pool of foreign currencies is managed by the government and is designed to ensure that the value of the Aura remains stable. The central bank is responsible for setting interest rates and controlling the money supply. The monetary policy committee is responsible for setting the monetary policy of the country. The open market operations (OMO) committee is tasked with managing OMO.
 
